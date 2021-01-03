@@ -38,6 +38,10 @@ machine reading comprehension
 
 [SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)
 
+[Kaggle Question-Answering Starter pack](https://www.kaggle.com/jonathanbesomi/question-answering-starter-pack)
+
+[Kaggle Stanford Question Answering Dataset](https://www.kaggle.com/stanfordu/stanford-question-answering-dataset/notebooks)
+
 [huggingface/transformers](https://github.com/huggingface/transformers)
 
 [KorQuAd 1.0](https://korquad.github.io/category/1.0_KOR.html)
